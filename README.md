@@ -1,30 +1,23 @@
 ### Hi there 👋
 
-My name is Matthew Rungwe. I am JavaScript developer with experince in Angular. I focus mainly on the Front-End part of development. I am also a passionate Mentor for Front-End and for Mathematics. 
+I am **Matthew Rungwe**, a JavaScript Developer. My focus is on the Front-End part of web development where I design and develop solutions that help others solve their problems. 
 
-- 🔭 I’m currently working on ...
+My strengths lie in HTML5, CSS3 and JavaScript as the *core* and *fundamental* aspects of all my web applications. To improve effeciency, consistency, maintanability and scalability of my web apps, I have learned to employ Angular and React into my development.
 
-I am upskilling in my stacks and continuing to learn new skills and developing new was to share content.
+Besides coding, I spend a good part of my time Mentoring Front-End devlopers, blogging, creating tutorial content, learning new technologies, upskilling and reading the Bible.
 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on: Mentoring other young upcoming Web Developer, creating content, projects and blogging.
 
-React and Firebase
+- 🌱 I’m currently learning: Upskilling in Back-End Development and other technologies relavent to my stack.
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on: Anything Education. I love education and working on projects that can allow us to improve the way we pass down information to the next generation
 
-Anything Education. I love education and working on projects that can allow us to improve the way we pass down information to the next generation
+- 🤔 I’m looking for help with: opportunities to build things that matter, to show what I can do and to grow.
 
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about: HTML, CSS and JavaScript.
 
+- 😄 Pronouns: he/him/his
 
-**matthewrungwe/matthewrungwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: Coding is not a career in itself but rather a steping stone to help you bring to life your creative ideas.
 
-Here are some ideas to get you started:
-
-
--->
+- 📫 How to reach me: [Email](matthewrungwe@gmail.com) | [Twitter](https://twitter.com/jerrytawana) | [LinkedIn](https://www.linkedin.com/in/matthew-rungwe-9b2168103/) | [Blog](https://dev.to/matthewrungwe)

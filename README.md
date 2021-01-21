@@ -20,4 +20,4 @@ Besides coding, I spend a good part of my time Mentoring Front-End devlopers, bl
 
 - ⚡ Fun fact: Coding is not a career in itself but rather a steping stone to help you bring to life your creative ideas.
 
-- 📫 How to reach me: [Email](matthewrungwe@gmail.com) | [Twitter](https://twitter.com/jerrytawana) | [LinkedIn](https://www.linkedin.com/in/matthew-rungwe-9b2168103/) | [Blog](https://dev.to/matthewrungwe)
+- 📫 How to reach me: [Email](mailto:matthewrungwe@gmail.com) | [Twitter](https://twitter.com/jerrytawana) | [LinkedIn](https://www.linkedin.com/in/matthew-rungwe-9b2168103/) | [Blog](https://dev.to/matthewrungwe)

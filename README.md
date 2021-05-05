@@ -1,3 +1,5 @@
+![Imgur](https://imgur.com/FWmNvWT.jpg)
+
 ### Hi there 👋
 
 I am **Matthew Rungwe**, a JavaScript Developer. My focus is on the Front-End part of web development where I design and develop solutions that help others solve their problems. 
